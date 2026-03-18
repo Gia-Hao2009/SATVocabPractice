@@ -1,0 +1,4 @@
+pass.txt
+secret.json
+__pycache__/
+*.pyc
